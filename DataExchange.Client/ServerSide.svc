@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="DataExchange.Client.Service1" CodeBehind="ServerSide.svc.cs" %>

@@ -1,0 +1,8 @@
+E:\Project\DataExchange\DataExchange.Client\bin\DataExchange.Client.dll.config
+E:\Project\DataExchange\DataExchange.Client\bin\DataExchange.Client.dll
+E:\Project\DataExchange\DataExchange.Client\bin\DataExchange.Client.pdb
+E:\Project\DataExchange\DataExchange.Client\obj\Debug\DataExchange.Client.dll
+E:\Project\DataExchange\DataExchange.Client\obj\Debug\DataExchange.Client.pdb
+E:\Project\DataExchange\DataExchange.Client\obj\Debug\DataExchange.Remote.csprojResolveAssemblyReference.cache
+E:\Project\DataExchange\DataExchange.Client\bin\System.ServiceModel.dll
+E:\Project\DataExchange\DataExchange.Client\bin\System.ServiceModel.Web.dll

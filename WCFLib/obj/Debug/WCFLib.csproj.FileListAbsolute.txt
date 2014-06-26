@@ -1,0 +1,5 @@
+E:\Project\DataExchange\WCFLib\bin\Debug\WCFLib.dll.config
+E:\Project\DataExchange\WCFLib\bin\Debug\WCFLib.dll
+E:\Project\DataExchange\WCFLib\bin\Debug\WCFLib.pdb
+E:\Project\DataExchange\WCFLib\obj\Debug\WCFLib.dll
+E:\Project\DataExchange\WCFLib\obj\Debug\WCFLib.pdb

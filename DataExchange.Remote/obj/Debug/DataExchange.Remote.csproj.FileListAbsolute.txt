@@ -1,0 +1,9 @@
+E:\Project\DataExchange\DataExchange.Remote\bin\Debug\DataExchange.Remote.exe.config
+E:\Project\DataExchange\DataExchange.Remote\bin\Debug\DataExchange.Remote.exe
+E:\Project\DataExchange\DataExchange.Remote\bin\Debug\DataExchange.Remote.pdb
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Remote.csprojResolveAssemblyReference.cache
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Remote.FrmControlPanel.resources
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Remote.Properties.Resources.resources
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Remote.csproj.GenerateResource.Cache
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Remote.exe
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Remote.pdb

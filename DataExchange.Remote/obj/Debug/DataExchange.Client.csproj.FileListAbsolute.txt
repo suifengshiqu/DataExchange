@@ -1,0 +1,9 @@
+E:\Project\DataExchange\DataExchange.Remote\bin\Debug\DataExchange.Client.pdb
+E:\Project\DataExchange\DataExchange.Remote\bin\Debug\DataExchange.Client.exe.config
+E:\Project\DataExchange\DataExchange.Remote\bin\Debug\DataExchange.Client.exe
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Remote.FileSendThread.resources
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Client.Properties.Resources.resources
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Client.csproj.GenerateResource.Cache
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Client.exe
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Client.pdb
+E:\Project\DataExchange\DataExchange.Remote\obj\Debug\DataExchange.Client.csprojResolveAssemblyReference.cache
